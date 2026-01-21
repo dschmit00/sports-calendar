@@ -1,1 +1,9 @@
-
+[
+  {
+    "slug": "arsenal",
+    "team_id": "134880",
+    "name": "Arsenal",
+    "sport_emoji": "⚽",
+    "duration_minutes": 120
+  }
+]
